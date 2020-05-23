@@ -65,7 +65,7 @@
                     </form>
                     <div id="output" class="col-sm"></div>
                 </main>
-                <footer class="footer-copyright text-center py-3">© <?php echo date ( 'Y' ) ; ?> Copyright: Антон Мотайло 535ст1</footer>
+                <footer class="footer-copyright text-center py-3">© <?php echo date ( 'Y' ) ; ?> Copyright: Антон Мотайло</footer>
             </div>
         </div>
     </body>
